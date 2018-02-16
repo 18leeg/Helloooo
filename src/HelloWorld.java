@@ -1,7 +1,7 @@
 
 public class HelloWorld {
 
-	public static void main(String[] args) {
+	public static void main (String[] args) {
 		// TODO Auto-generated method stub
 
 	System.out.println("Hello World");
@@ -10,7 +10,12 @@ public class HelloWorld {
 	System.out.println("Marm");
 
 	System.out.println("Mulan");
+    
 	System.out.println("Chocolate");
+	
+	System.out.println("Strawberry");
+	
+	System.out.println("Rocky Road");
 	
 	}
 
