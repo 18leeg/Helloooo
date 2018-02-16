@@ -8,11 +8,8 @@ public class HelloWorld {
 	System.out.println("Eric");
 	System.out.println("Alena");
 	System.out.println("Marm");
-	System.out.println("My favorite movie is 21 Jump Street");
-	
-	System.out.println("21 Jump Street");
-	
-	System.out.println("Walter Mitty");
+
+	System.out.println("Mulan");
 
 	
 	}
